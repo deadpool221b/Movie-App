@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+table{
+    text-align : center;
+    border: 5px;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+    padding: 5px;
+}
