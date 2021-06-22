@@ -2,14 +2,9 @@ body{
     font-family: sans-serif;
     text-align: center;
 }
-table{
+table, th, td{
     text-align : center;
+    width : 100%;
     border: 5px;
 }
-th{
-    text-align: center;
-}
-td{
-    text-align: center;
-    padding: 5px;
-}
+
